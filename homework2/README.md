@@ -2,7 +2,7 @@
 
 ## Data Source
 
-This dataset contains ZiMuZu's top 50 collected American TVs list scraped from the website.
+This dataset contains ZiMuZu's top 50 collected Foreign TVs list scraped from the website.
 
 starting page: http://www.zimuzu.tv/html/top/total_fav_list.html
 
@@ -14,4 +14,4 @@ starting page: http://www.zimuzu.tv/html/top/total_fav_list.html
 
 ## Data volume
 
-* 50 rows (American TVs)
+* 50 rows (Foreign TVs)
