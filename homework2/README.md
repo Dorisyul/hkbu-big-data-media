@@ -15,3 +15,8 @@ starting page: http://www.zimuzu.tv/html/top/total_fav_list.html
 ## Data volume
 
 * 50 rows (Foreign TVs)
+
+
+# License
+
+CC 4.0
