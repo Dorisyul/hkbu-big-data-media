@@ -1,4 +1,4 @@
-#Hong Kong visitor analysis: from the perspectives of country/region of residence, mode of transport and consumption expenditure
+# Hong Kong visitor analysis: from the perspectives of country/region of residence, mode of transport and consumption expenditure
 
 ## Author
 XU Manning, YU Lei, SHEN Yue, WONG Pui Lam 
